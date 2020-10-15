@@ -1,4 +1,3 @@
 file : C;
 
-
 C = Pow(B,2);
