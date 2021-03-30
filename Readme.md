@@ -164,6 +164,6 @@ Date: Sun Mar 31 16:44:07 2013 +0900
 // print log gragp
 $ git log --graph --all --decorate 
 ```
-<img src = "./img/Tree_Graph.png" width="600px" height="300px"></img>
+<img src = "./img/Tree_Graph.png" ></img>
 
 ---
